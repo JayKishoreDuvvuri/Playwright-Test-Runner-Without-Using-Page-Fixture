@@ -1,4 +1,4 @@
-# Playwright with Playwright Test Runner Automation Framework
+# Playwright Test Runner 
 
 Design Page Objects and run Tests with JavaScript
 
