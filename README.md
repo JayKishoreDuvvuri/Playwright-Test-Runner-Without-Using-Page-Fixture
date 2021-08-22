@@ -1,6 +1,6 @@
 # Playwright with Playwright Test Runner Automation Framework
 
-Design Page Objects and run Tests
+Design Page Objects and run Tests with JavaScript
 
 ## Run application
 
