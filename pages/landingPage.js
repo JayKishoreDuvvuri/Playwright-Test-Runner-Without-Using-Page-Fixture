@@ -8,7 +8,7 @@ const {
 	printedSummerDress,
 	printedSummerDressTwo
 } = require('../pageobjects/selectors')
-const { baseUrl, timeout } = require('../config')
+const { baseUrl, timeout } = require('../util')
 
 class LandingPage extends BasePage {
 	constructor() {

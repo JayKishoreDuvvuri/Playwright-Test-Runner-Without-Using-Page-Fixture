@@ -1,4 +1,4 @@
-const { timeout } = require('../config')
+const { timeout } = require('../util')
 const { homePageImage } = require('../pageobjects/selectors')
 const { chromium } = require('playwright')
 
