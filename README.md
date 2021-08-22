@@ -1,14 +1,15 @@
-<<<<<<< HEAD
 ### Playwright with Playwright Test Runner 
 
 Design Page Objects and run Tests
 
 ### Run application
-=======
+Clone the repository
+git clone https://github.com/JayKishoreDuvvuri/Playwright-Test-Runner.git
+
+
 ### Playwright Test Runner 
 
 Design Page Objects and run Tests with JavaScript
->>>>>>> d1fec4be5c8cd88b422e1ba6681dc8190f34951b
 
 ### Run application
   
