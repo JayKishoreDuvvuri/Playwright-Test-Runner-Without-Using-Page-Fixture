@@ -47,6 +47,7 @@ Folder Structure
                     
 
 
+### Allure Test Report
 ```bash
 Allure-test-report : npm run generate-report
 ```
