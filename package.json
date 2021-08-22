@@ -1,0 +1,28 @@
+{
+  "name": "playwright-test-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test --reporter=list,experimental-allure-playwright",
+    "generate-report" : "allure generate ./allure-results --clean && allure open ./allure-report",
+    "product-names-test": "npx playwright test tests/productNames.test.js",
+    "add-to-cart-test": "npx playwright test tests/addToCart.test.js",
+    "toggle-product-colour-test": "npx playwright test tests/toggleProductColour.test.js"
+  },
+  "keywords": [
+    "Plawright",
+    "Jest",
+    "Test Automation"
+  ],
+  "author": "Jay Kishore Duvvuri",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.14.0",
+    "playwright": "^1.14.0",
+    "prettier": "^2.2.1"
+  },
+  "devDependencies": {
+    "experimental-allure-playwright": "^0.0.3"
+  }
+}
