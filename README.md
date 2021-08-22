@@ -10,13 +10,11 @@ git clone https://github.com/JayKishoreDuvvuri/Playwright-Test-Runner.git
 ```
 
 Install dependencies
-
 ```bash
 Install Node modules: npm install
 ```
 
 Run test
-
 ```bash
 npm test
 ```
@@ -54,10 +52,13 @@ Allure-test-report : npm run generate-report
 ```
 
 ### Docker Locally
+```bash
 docker build -t playwright:v1 .
 docker run -it playwright:v1   
-
+```
 
 ### From Docker Hub
+```bash
 docker pull jaykishoreduvvuri/playwright:v1   
 docker run -it jaykishoreduvvuri/playwright:v1  
+```
