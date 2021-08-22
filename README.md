@@ -7,7 +7,7 @@ Design Page Objects and run Tests with JavaScript
 Clone the repository 
  
 ```bash
-git clone https://github.com/JayKishoreDuvvuri/Playwright-with-Playwright-Test-Runner.git
+git clone https://github.com/JayKishoreDuvvuri/Playwright-Test-Runner.git
 ```
 
 Install dependencies
