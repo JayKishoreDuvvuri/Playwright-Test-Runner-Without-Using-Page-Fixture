@@ -1,13 +1,21 @@
+<<<<<<< HEAD
 ### Playwright with Playwright Test Runner 
 
 Design Page Objects and run Tests
 
 ### Run application
+=======
+### Playwright Test Runner 
 
+Design Page Objects and run Tests with JavaScript
+>>>>>>> d1fec4be5c8cd88b422e1ba6681dc8190f34951b
+
+### Run application
+  
 Clone the repository 
  
 ```bash
-git clone https://github.com/JayKishoreDuvvuri/Playwright-with-Playwright-Test-Runner.git
+git clone https://github.com/JayKishoreDuvvuri/Playwright-Test-Runner.git
 ```
 
 Install dependencies
@@ -39,7 +47,7 @@ Folder Structure
     │    ├── toggleProductColour.test.js    # Automated Test Script
     │
     │
-    │── config.js                           # Confiuguration JavSacript File
+    │── util.js                             # Confiuguration JavSacript File
     │
     │
     ├── pageobjects                       
