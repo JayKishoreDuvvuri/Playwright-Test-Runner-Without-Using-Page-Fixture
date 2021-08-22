@@ -22,8 +22,8 @@ class BasePage {
 	}
 
 	async close() {
+		await context.close()
 		await browser.close()
-	    await context.close()
 	}
 
 	async getUrl() {
