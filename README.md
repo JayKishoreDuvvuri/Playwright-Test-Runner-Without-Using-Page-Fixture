@@ -39,7 +39,7 @@ Folder Structure
     │    ├── toggleProductColour.test.js    # Automated Test Script
     │
     │
-    │── config.js                           # Confiuguration JavSacript File
+    │── util.js                             # Confiuguration JavSacript File
     │
     │
     ├── pageobjects                       
