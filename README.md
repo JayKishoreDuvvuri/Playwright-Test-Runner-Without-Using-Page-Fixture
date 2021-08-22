@@ -3,18 +3,8 @@
 Design Page Objects and run Tests
 
 ### Run application
+
 Clone the repository
-git clone https://github.com/JayKishoreDuvvuri/Playwright-Test-Runner.git
-
-
-### Playwright Test Runner 
-
-Design Page Objects and run Tests with JavaScript
-
-### Run application
-  
-Clone the repository 
- 
 ```bash
 git clone https://github.com/JayKishoreDuvvuri/Playwright-Test-Runner.git
 ```
