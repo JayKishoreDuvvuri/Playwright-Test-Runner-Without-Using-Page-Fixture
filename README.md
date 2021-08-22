@@ -1,8 +1,8 @@
-# Playwright with Playwright Test Runner Automation Framework
+### Playwright with Playwright Test Runner 
 
 Design Page Objects and run Tests
 
-## Run application
+### Run application
 
 Clone the repository 
  
@@ -54,3 +54,11 @@ Folder Structure
 Allure-test-report : npm run generate-report
 ```
 
+### Docker Locally
+docker build -t playwright:v1 .
+docker run -it playwright:v1   
+
+
+### From Docker Hub
+docker pull jaykishoreduvvuri/playwright:v1   
+docker run -it jaykishoreduvvuri/playwright:v1  
