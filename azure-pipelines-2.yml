@@ -1,0 +1,9 @@
+stages:
+  - test
+
+tests:
+  stage: test
+  image: mcr.microsoft.com/playwright:focal
+  script:
+    - npm install
+    - npm test
