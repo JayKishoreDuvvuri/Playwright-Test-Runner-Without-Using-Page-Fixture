@@ -63,3 +63,10 @@ docker run -it playwright:v1
 docker pull jaykishoreduvvuri/playwright:v1   
 docker run -it jaykishoreduvvuri/playwright:v1  
 ```
+
+### GitHub issues on Playwright Fixtures {Page, Context}
+```bash
+https://github.com/microsoft/playwright/issues/8402 
+https://github.com/microsoft/playwright/issues/8354
+https://github.com/microsoft/playwright/issues/8428
+```
