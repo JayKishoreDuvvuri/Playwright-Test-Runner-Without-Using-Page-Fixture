@@ -4,8 +4,12 @@ Design Page Objects and run Tests with JavaScript
 
 ### Description
 ```bash
-We have not used { Page } fixture in the tests in test blocks that's the reason screenshot and videos are not working and captured. Only Retries option works here.
-I have posted th github issues at the bottom of the page. The tests will run fine with generating report.
+We have not used { page } fixture in the tests in test blocks like below 
+**test('basic test', async ({ page }) => {**
+**  ...**
+That's the reason screenshot and videos are not working and not captured. 
+Only Retries option works here.
+I have posted the github issues at the bottom of this page. The tests will run fine with generating report.
 ```
 
 ### Run application
@@ -70,7 +74,7 @@ docker pull jaykishoreduvvuri/playwright:v1
 docker run -it jaykishoreduvvuri/playwright:v1  
 ```
 
-### GitHub issues on Playwright {Page, Context}
+### GitHub issues on Playwright {Page, Context} fixtures
 ```bash
 https://github.com/microsoft/playwright/issues/8402 
 https://github.com/microsoft/playwright/issues/8354
