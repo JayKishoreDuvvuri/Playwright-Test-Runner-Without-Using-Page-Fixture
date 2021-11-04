@@ -4,7 +4,7 @@ Design Page Objects and run Tests with JavaScript
 
 ### Description
 ```bash
-We have not used { page } fixture in the tests in test blocks like below 
+We have not used { page } fixture in the tests in test block like below 
 test('basic test', async ({ page }) => 
 
 That's the reason screenshot and videos are not working and not captured. 
