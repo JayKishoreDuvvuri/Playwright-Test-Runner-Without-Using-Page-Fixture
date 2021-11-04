@@ -5,11 +5,11 @@ Design Page Objects and run Tests with JavaScript
 ### Description
 ```bash
 We have not used { page } fixture in the tests in test blocks like below 
-**test('basic test', async ({ page }) => {**
-**  ...**
+test('basic test', async ({ page }) => 
+
 That's the reason screenshot and videos are not working and not captured. 
 Only Retries option works here.
-I have posted the github issues at the bottom of this page. The tests will run fine with generating report.
+I have posted the github issues at the bottom of this page. The tests are running fine with generating report and retries option.
 ```
 
 ### Run application
