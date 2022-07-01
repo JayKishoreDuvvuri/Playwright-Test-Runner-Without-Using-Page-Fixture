@@ -1,6 +1,6 @@
 ### Playwright with Playwright Test Runner 
 
-Design Page Objects and run Tests with JavaScript
+Design Page Objects and run Tests with JavaScript 
 
 ### Description
 ```bash
